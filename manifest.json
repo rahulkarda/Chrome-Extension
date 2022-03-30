@@ -1,0 +1,13 @@
+{
+    "manifest_version": 3,
+    "name": "RaKa Launcher",
+    "description": "Quick Launch Social Media Links",
+    "version": "1.0",
+    "icons": {"128": "icon_128.png"},
+    "action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+    },
+    "permissions": ["activeTab"]
+  }
+  
